@@ -1,0 +1,14 @@
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.AssemblyInfoInputs.cache
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.AssemblyInfo.cs
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.csproj.CoreCompileInputs.cache
+/Users/katelynjaynehill/brevium-takehome/bin/Debug/net9.0/brevium-takehome
+/Users/katelynjaynehill/brevium-takehome/bin/Debug/net9.0/brevium-takehome.deps.json
+/Users/katelynjaynehill/brevium-takehome/bin/Debug/net9.0/brevium-takehome.runtimeconfig.json
+/Users/katelynjaynehill/brevium-takehome/bin/Debug/net9.0/brevium-takehome.dll
+/Users/katelynjaynehill/brevium-takehome/bin/Debug/net9.0/brevium-takehome.pdb
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.dll
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/refint/brevium-takehome.dll
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.pdb
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.genruntimeconfig.cache
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/ref/brevium-takehome.dll
