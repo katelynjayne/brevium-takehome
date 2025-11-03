@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("brevium-takehome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92fc7c7e305c61402fd7fb80feddbfef19d35a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("brevium-takehome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("brevium-takehome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

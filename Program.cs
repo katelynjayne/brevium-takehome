@@ -1,5 +1,3 @@
-using System.Net.Http;
-using System.Net.Http.Json; // <-- optional, for convenience
 using System.Text;
 using System.Text.Json;
 

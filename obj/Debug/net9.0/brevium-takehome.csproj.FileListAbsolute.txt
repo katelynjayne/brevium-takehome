@@ -12,3 +12,4 @@
 /Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.pdb
 /Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.genruntimeconfig.cache
 /Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/ref/brevium-takehome.dll
+/Users/katelynjaynehill/brevium-takehome/obj/Debug/net9.0/brevium-takehome.sourcelink.json
